@@ -1,0 +1,57 @@
+state_id,state_name,state_abbrv,capital,latitude,longitude
+1,Alabama,AL,Montgomery,32.377716,-86.300568
+2,Alaska,AK,Juneau,58.301598,-134.420212
+3,American Samoa,AS,Pago Pago,-14.279444,-170.700556
+4,Arizona,AZ,Phoenix,33.448143,-112.096962
+5,Arkansas,AR,Little Rock,34.746613,-92.288986
+6,California,CA,Sacramento,38.576668,-121.493629
+7,Colorado,CO,Denver,39.739227,-104.984856
+8,Connecticut,CT,Hartford,41.764046,-72.682198
+9,Delaware,DE,Dover,39.157307,-75.519722
+10,Florida,FL,Tallahassee,21.307442,-157.857376
+11,Georgia,GA,Atlanta,30.438118,-84.281296
+12,Guam,GU,Hagåtña,13.479167,144.75
+13,Hawaii,HI,Honolulu,33.749027,-84.388229
+14,Idaho,ID,Boise,43.617775,-116.199722
+15,Illinois,IL,Springfield,39.798363,-89.654961
+16,Indiana,IN,Indianapolis,39.768623,-86.162643
+17,Iowa,IA,Des Moines,41.591087,-93.603729
+18,Kansas,KS,Topeka,39.048191,-95.677956
+19,Kentucky,KY,Frankfort,38.186722,-84.875374
+20,Louisiana,LA,Baton Rouge,30.457069,-91.187393
+21,Maine,ME,Augusta,44.307167,-69.781693
+22,Maryland,MD,Annapolis,38.978764,-76.490936
+23,Massachusetts,MA,Boston,42.358162,-71.063698
+24,Michigan,MI,Lansing,42.733635,-84.555328
+25,Minnesota,MN,St. Paul,44.955097,-93.102211
+26,Mississippi,MS,Jackson,32.303848,-90.182106
+27,Missouri,MO,Jefferson City,38.579201,-92.172935
+28,Montana,MT,Helena,46.585709,-112.018417
+29,Nebraska,NE,Lincoln,40.808075,-96.699654
+30,Nevada,NV,Carson City,39.163914,-119.766121
+31,New Hampshire,NH,Concord,43.206898,-71.537994
+32,New Jersey,NJ,Trenton,40.220596,-74.769913
+33,New Mexico,NM,Santa Fe,35.68224,-105.939728
+34,New York,NY,Albany,35.78043,-78.639099
+35,North Carolina,NC,Raleigh,35.78032,-78.63912
+36,North Dakota,ND,Bismarck,42.652843,-73.757874
+37,Northern Mariana Islands,MP,Saipan,15.183333,145.75
+38,Ohio,OH,Columbus,39.961346,-82.999069
+39,Oklahoma,OK,Oklahoma City,35.492207,-97.503342
+40,Oregon,OR,Salem,44.938461,-123.030403
+41,Pennsylvania,PA,Harrisburg,40.264378,-76.883598
+42,Puerto Rico,PR,San Juan,18.406389,-66.063889
+43,Rhode Island,RI,Providence,41.830914,-71.414963
+44,South Carolina,SC,Columbia,34.000343,-81.033211
+45,South Dakota,SD,Pierre,44.367031,-100.346405
+46,Tennessee,TN,Nashville,36.16581,-86.784241
+47,Texas,TX,Austin,30.27467,-97.740349
+48,U.S. Virgin Islands,VI,Charlotte Amalie,18.35,-64.95
+49,Utah,UT,Salt Lake City,40.777477,-111.888237
+50,Vermont,VT,Montpelier,44.262436,-72.580536
+51,Virginia,VA,Richmond,37.538857,-77.43364
+52,Washington,WA,Olympia,47.035805,-122.905014
+53,"Washington, D.C.",DC,"Washington, D.C.",38.9101,-77.0147
+54,West Virginia,WV,Charleston,38.336246,-81.612328
+55,Wisconsin,WI,Madison,43.074684,-89.384445
+56,Wyoming,WY,Cheyenne,41.140259,-104.820236
