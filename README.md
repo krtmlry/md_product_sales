@@ -1,4 +1,4 @@
-# ELT Data pipeline using Prefect, Python, Motherduck
+# ELT Data pipeline using Prefect, Python, Motherduck, DuckDB
 
 ## About the Project
 This project will extract and load sales data into motherduck and will then be transformed using duckdb SQL.
