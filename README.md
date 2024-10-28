@@ -4,16 +4,14 @@
 This project will extract and load sales data into motherduck and will then be transformed using duckdb SQL.
 
 ## Directories
-`csv_files` - contains the __states.csv__ file with states data extracted from rapidAPI
 
-`dbt_md_product_sales` - contains dbt files.
-> This project currently uses duckdbSQL to transform the data. Dbt adapter for motherduck has some connection issues.
-
-`eda` - contains eda_sales.ipynb which is used for data cleaning and transformation locally.
-
-`img` - contains image files
-
-`prefect-flows` - contains all python scripts used for extraction and orchestration.
+| Directory | Description |
+| --- | --- |
+|`csv_files` | contains *states.csv* |
+|`data_exploration`| contains *data_exploration.ipynb*|
+|`data_viz`| contains powerbi files|
+|`img`| image assets|
+|`prefect-flows`|python files for orchestration|
 
 
 ## Project Diagram
@@ -25,5 +23,10 @@ Process:
 4. Transform raw data using duckdb SQL
 > **Note**: data type for latitude and longitude for dim_states table will currently be in `varchar` since using the decimal type rounds off the decimal values.
 
+## PowerBI Dashboard
+![pbi-dashboard](img/dasboard-screenshot.png)
+
+
+
 ## Data model diagram
-![data-model](img/datamodel.png)
+![data-model](img/erd.png)
