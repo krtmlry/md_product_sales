@@ -23,9 +23,9 @@ Process:
 4. Transform raw data using duckdb SQL
 > **Note**: data type for latitude and longitude for dim_states table will currently be in `varchar` since using the decimal type rounds off the decimal values.
 
-## PowerBI Dashboard
-![pbi-dashboard](img/dasboard-screenshot.png)
-
+## PowerBI Dashboard Screenshot
+![pbi-dashboard](img/dashboard-screenshot.png)
+File download [link](https://github.com/krtmlry/md_product_sales/blob/main/data_viz/powerbi/product_sales_dashboard.pbix)
 
 
 ## Data model diagram
