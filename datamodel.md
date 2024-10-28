@@ -27,7 +27,7 @@ product_sk_id int
 product_id int
 product varchar
 price numeric
-
+category varchar
 
 dim_stores
 ---
@@ -69,4 +69,3 @@ total_price numeric
 orderdate_sk_id int FK >- dim_order_dates.orderdate_sk_id
 store_sk_id int FK >- dim_stores.store_sk_id
 pay_method_sk_id int FK >- dim_payment_methods.pay_method_sk_id
-
