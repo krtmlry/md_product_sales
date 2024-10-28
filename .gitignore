@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 logs/
+
+dbt_md_product_sales
