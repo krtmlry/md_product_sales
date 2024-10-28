@@ -25,6 +25,7 @@ Process:
 
 ## PowerBI Dashboard Screenshot
 ![pbi-dashboard](img/dashboard-screenshot.png)
+
 File download [link](https://github.com/krtmlry/md_product_sales/blob/main/data_viz/powerbi/product_sales_dashboard.pbix)
 
 
